@@ -1,4 +1,5 @@
-FROM debian:jessie
+FROM 32bit/debian:jessie
+
 MAINTAINER "Konrad Kleine"
 
 
